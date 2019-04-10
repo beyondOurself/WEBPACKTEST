@@ -1,0 +1,24 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyondOurself/WEBPACKTEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beyondOurself/WEBPACKTEST/issues"
+  },
+  "homepage": "https://github.com/beyondOurself/WEBPACKTEST#readme",
+  "dependencies": {
+    "webpack": "^4.29.6",
+    "wepack-cli": "^1000.0.0"
+  }
+}
