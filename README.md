@@ -1,2 +1,2 @@
-## webpack  安装 
-- 安装本地的webpack
+## 相关学习资料
+https://github.com/mayufo/webpack-training
